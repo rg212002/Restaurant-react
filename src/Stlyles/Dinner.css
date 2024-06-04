@@ -1,0 +1,87 @@
+
+.dinner {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10vh ;
+  }
+  .dinner .dinnerTitle {
+    font-family: cursive;
+    font-size: 60px;
+  }
+  .bckBtn {
+    color: yellow;
+    text-decoration: none;
+    
+  }
+  
+  .bckBtn a {
+    color: yellow;
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  .dinnerList {
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+  }
+  
+  /* MENU ITEM STYLING */
+  
+  .dinnerItem {
+    border-radius: 15px;
+    width: 150px;
+    height: 200px;
+    margin: 20px;
+    font-size: 10px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    size: 5px;
+  }
+  .dinnerItem:hover {
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in;
+    cursor: pointer;
+  }
+  
+  .dinnerItem div {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .dinnerItem h1,
+  .dinnerItem p
+   {
+    margin: 20px;
+    
+  }
+  .dinnerItem button {
+    border-radius: 5px;
+    margin-left: 100px;
+    height: 30px;
+    border-color: white;
+    background-color: white;
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    .dinnerList {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .dinnerList {
+      grid-template-columns: 1fr;
+    }
+  }
