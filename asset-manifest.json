@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Restaurant-react/static/css/main.1fc2652c.css",
+    "main.js": "/Restaurant-react/static/js/main.ab0005e0.js",
+    "static/js/453.605cd7f6.chunk.js": "/Restaurant-react/static/js/453.605cd7f6.chunk.js",
+    "static/media/Mapotofu.jpg": "/Restaurant-react/static/media/Mapotofu.9ad0441291445c5cddab.jpg",
+    "static/media/FiletMignon.jpg": "/Restaurant-react/static/media/FiletMignon.1f7a81f1fe3d74ce2606.jpg",
+    "static/media/Contact.jpg": "/Restaurant-react/static/media/Contact.afb45fa6c4bdc4fef197.jpg",
+    "static/media/JerkChicken.jpg": "/Restaurant-react/static/media/JerkChicken.4f14b51004ee7d3fe64e.jpg",
+    "static/media/Tomatobasilsoup.jpg": "/Restaurant-react/static/media/Tomatobasilsoup.2d56836a25035e6d52cf.jpg",
+    "static/media/beeftacos.jpg": "/Restaurant-react/static/media/beeftacos.37a2aca851f834437d6a.jpg",
+    "static/media/BannerImage.jpg": "/Restaurant-react/static/media/BannerImage.3491b6cfeab0e808910a.jpg",
+    "static/media/Lunch.jpg": "/Restaurant-react/static/media/Lunch.25da8a0bb8116d5d2cf0.jpg",
+    "static/media/Tiramisu.jpg": "/Restaurant-react/static/media/Tiramisu.477ed37e173e2437b1d0.jpg",
+    "static/media/salmonfillet.jpg": "/Restaurant-react/static/media/salmonfillet.7f8fd34ea712c6146234.jpg",
+    "static/media/GardenSalad.jpg": "/Restaurant-react/static/media/GardenSalad.4c4c0ea094da3775b45b.jpg",
+    "static/media/Dinner.jpg": "/Restaurant-react/static/media/Dinner.be8e22ba1b9049196a73.jpg",
+    "static/media/PastaPrimavera.jpg": "/Restaurant-react/static/media/PastaPrimavera.399288257e45eb060da4.jpg",
+    "static/media/ChowMein.jpg": "/Restaurant-react/static/media/ChowMein.59ada7b80964a2aa2d73.jpg",
+    "static/media/Calamari.jpg": "/Restaurant-react/static/media/Calamari.06a44dc92a152aa6d543.jpg",
+    "static/media/chocolatelavacake.jpg": "/Restaurant-react/static/media/chocolatelavacake.6847aba46bf99acc5477.jpg",
+    "static/media/logo.png": "/Restaurant-react/static/media/logo.813b6786e1c0b3568a04.png",
+    "static/media/VeggieWrap.jpg": "/Restaurant-react/static/media/VeggieWrap.61166cd70bc88c73df81.jpg",
+    "static/media/cheesecake.jpg": "/Restaurant-react/static/media/cheesecake.515d3101b0c4752216e1.jpg",
+    "index.html": "/Restaurant-react/index.html",
+    "main.1fc2652c.css.map": "/Restaurant-react/static/css/main.1fc2652c.css.map",
+    "main.ab0005e0.js.map": "/Restaurant-react/static/js/main.ab0005e0.js.map",
+    "453.605cd7f6.chunk.js.map": "/Restaurant-react/static/js/453.605cd7f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fc2652c.css",
+    "static/js/main.ab0005e0.js"
+  ]
+}
