@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/Restaurant-react/static/css/main.1fc2652c.css",
-    "main.js": "/Restaurant-react/static/js/main.ab0005e0.js",
-    "static/js/453.605cd7f6.chunk.js": "/Restaurant-react/static/js/453.605cd7f6.chunk.js",
+    "main.css": "/Restaurant-react/static/css/main.d8d87f2c.css",
+    "main.js": "/Restaurant-react/static/js/main.02fcaec2.js",
     "static/media/Mapotofu.jpg": "/Restaurant-react/static/media/Mapotofu.9ad0441291445c5cddab.jpg",
     "static/media/FiletMignon.jpg": "/Restaurant-react/static/media/FiletMignon.1f7a81f1fe3d74ce2606.jpg",
     "static/media/Contact.jpg": "/Restaurant-react/static/media/Contact.afb45fa6c4bdc4fef197.jpg",
@@ -23,12 +22,11 @@
     "static/media/VeggieWrap.jpg": "/Restaurant-react/static/media/VeggieWrap.61166cd70bc88c73df81.jpg",
     "static/media/cheesecake.jpg": "/Restaurant-react/static/media/cheesecake.515d3101b0c4752216e1.jpg",
     "index.html": "/Restaurant-react/index.html",
-    "main.1fc2652c.css.map": "/Restaurant-react/static/css/main.1fc2652c.css.map",
-    "main.ab0005e0.js.map": "/Restaurant-react/static/js/main.ab0005e0.js.map",
-    "453.605cd7f6.chunk.js.map": "/Restaurant-react/static/js/453.605cd7f6.chunk.js.map"
+    "main.d8d87f2c.css.map": "/Restaurant-react/static/css/main.d8d87f2c.css.map",
+    "main.02fcaec2.js.map": "/Restaurant-react/static/js/main.02fcaec2.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fc2652c.css",
-    "static/js/main.ab0005e0.js"
+    "static/css/main.d8d87f2c.css",
+    "static/js/main.02fcaec2.js"
   ]
 }
